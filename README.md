@@ -2,6 +2,9 @@
 
 Open an [issue here](https://github.com/DataFire/DataFire.io-Website/issues) for any questions, suggestions, or bugs related to [DataFire.io](https://app.datafire.io) 
 
+## Changelog
+View the [changelog for the DataFire.io site](CHANGELOG.md)
+
 ## Checking Your Version
 To make sure you're on the latest version, hit the "refresh" button in your browser while on app.datafire.io.
 
