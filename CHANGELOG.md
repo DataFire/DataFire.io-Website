@@ -1,5 +1,8 @@
 # Changelog for DataFire.io Website
 
+## 2.5.1
+* Update supported integrations
+
 ## 2.5.0
 * Dropdown for choosing action's return value
 * Fix for reordering action steps
