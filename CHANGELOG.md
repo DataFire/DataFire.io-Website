@@ -1,5 +1,13 @@
 # Changelog for DataFire.io Website
 
+## 2.5.0
+* Dropdown for choosing action's return value
+* Fix for reordering action steps
+
+## 2.4.1
+* Prompt with sign-in instead of sign-up on 401 response
+* Hide "Projects" in navbar until signed in
+
 ## 2.4.0
 * Add keepWarm option to deployments
 * Fixed "invalid date-time" errors when saving to git
