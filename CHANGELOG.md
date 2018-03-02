@@ -1,5 +1,11 @@
 # Changelog for DataFire.io Website
 
+## 2.5.3
+* Update integration list
+
+## 2.5.2
+* Prevent exception when trigger does not have an action
+
 ## 2.5.1
 * Update supported integrations
 
