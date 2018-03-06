@@ -1,5 +1,16 @@
 # Changelog for DataFire.io Website
 
+## 2.5.6
+* Minor CSS fix
+
+## 2.5.5
+* Update integration info (titles, logos)
+
+## 2.5.4
+* Add eBay oauth support
+* Better "remove integration" button
+* Remove triggers with no action
+
 ## 2.5.3
 * Update integration list
 
